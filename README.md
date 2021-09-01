@@ -5,7 +5,7 @@
 </a>
 
 
-My name is Chen Panker and I"m a Software Engineer who is passionate about building tech, teaching and learning new technologies.
+My name is Chen Panker and I"m a Software developer who is passionate about building tech and learning new technologies.
 
 ### 🛠 &nbsp;Tech Stack
 
