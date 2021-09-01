@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/chen-panker/">
   <img align="left" alt="Chenpanker's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a> <br />
 
 
 My name is Chen Panker and I'm a Software developer who is passionate about building tech and learning new technologies.
