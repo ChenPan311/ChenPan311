@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Chen Panker</h1>
-<h3 align="center">A software developer who is passionate about building tech and learning new technologies. </h3>
+<h1 align="center">Hi 👋, I'm Chen Panker
 <a href="https://www.linkedin.com/in/chen-panker/">
-  <img align="left" alt="Chenpanker's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Chenpanker's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+</h1>
+<h3 align="center">A software developer who is passionate about building tech and learning new technologies. </h3>
+
 
 ### 🛠 &nbsp;Tech Stack
 
