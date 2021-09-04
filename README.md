@@ -26,6 +26,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 <br />
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-05122A?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=Postman&logoColor=#FF61F6)&nbsp;
 <br />
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Intellij](https://img.shields.io/badge/IntelliJ-05122A?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
