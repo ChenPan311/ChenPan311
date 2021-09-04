@@ -4,9 +4,6 @@
   <img align="left" alt="Chenpanker's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-
-My name is Chen Panker and I'm a Software developer who is passionate about building tech and learning new technologies.
-
 ### 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
