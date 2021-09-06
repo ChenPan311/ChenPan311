@@ -3,6 +3,7 @@
   <img alt="Chenpanker's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 </h1>
+<p align="center"><img alt="Computer GIF" width="300px" src="code.gif" /> </p>
 <h3 align="center">A software developer who is passionate about building tech and learning new technologies. </h3>
 
 
@@ -37,10 +38,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChenPan311&theme=nord_dark")
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChenPan311&theme=nord_dark)
-
- 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChenPan311&theme=radical" alt="chenpanker" /></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ChenPan311&theme=radical)
  
  <br />
