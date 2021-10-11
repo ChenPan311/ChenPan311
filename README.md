@@ -16,6 +16,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/React_Native-05122A?style=flat&logo=react)&nbsp;
+![Redux](https://img.shields.io/badge/Redux-05122A?style=flat&logo=redux)&nbsp;
 ![Django](https://img.shields.io/badge/django-05122A?style=flat&logo=django&logoColor=white)&nbsp;
 <br />
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
